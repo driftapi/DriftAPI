@@ -1,2 +1,2 @@
-# DriftAPI-Plugins
-DriftAPI 的适配插件们
+# DriftAPI
+DriftAPI 本体暂不开源
